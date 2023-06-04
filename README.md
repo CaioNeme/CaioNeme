@@ -7,8 +7,8 @@
 - 🤔 I'm looking for help with software development because I'm starting my career
 - 💬 Ask Me About: Anything
 - 📫 Como chegar até mim:
-        Email: caiocesarneme@gmail.com
-        Linkedin: https://www.linkedin.com/in/caio-neme/
+Email: caiocesarneme@gmail.com
+Linkedin: https://www.linkedin.com/in/caio-neme/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Since I was little, I always liked to see how things worked, I would take my toys apart and my parents would get mad, I think my desire to program comes from this curiosity that I have
 
