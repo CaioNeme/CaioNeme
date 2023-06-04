@@ -6,7 +6,7 @@
 - 👯 I'm looking to collaborate on projects open source
 - 🤔 I'm looking for help with software development because I'm starting my career
 - 💬 Ask Me About: Anything
-- 📫 Como chegar até mim:
+- 📫 How to reach me:
    - Email: caiocesarneme@gmail.com
    - Linkedin: https://www.linkedin.com/in/caio-neme/
 - 😄 Pronouns: He/Him
