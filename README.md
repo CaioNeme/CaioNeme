@@ -1,26 +1,43 @@
-#👋 Hello! Welcome to my Github profile.
-## My name is @CaioNeme and my nickname is "Neme"!
+### Hi devs 👋
 
-- 🔭 I’m i am currently looking for jobs
-- 🌱 I'm currently learning React at Driven and English on my own
-- 👯 I'm looking to collaborate on projects open source
-- 🤔 I'm looking for help with software development because I'm starting my career
-- 💬 Ask Me About: Anything
-- 📫 How to reach me:
-   - Email: caiocesarneme@gmail.com
-   - Linkedin: https://www.linkedin.com/in/caio-neme/
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Since I was little, I always liked to see how things worked, I would take my toys apart and my parents would get mad, I think my desire to program comes from this curiosity that I have
+Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+```kotlin
+object **Caio Neme** {
+ val name = "Caio Cesar Neme da Silva"
+ val acknowledgements = "Web"
+ 
+ val primarySkillset = "ALGUMAS HABILIDADES"
+ val languages = listOf("Python", "JavaScript", "React") 
+
+}
+```
+
+## **Linguagens e Ferramentas:**  
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-## Languanges and Tools:
-<!--   <img src="https://github.com/CaioNeme/CaioNeme/assets/128882451/971ba3d3-a2d6-4f4a-8378-ca3b0bd3603a" width"50px"/> -->
-  <img src="(https://github.com/CaioNeme/CaioNeme/assets/128882451/b451fc47-c25b-44cd-a4ab-4b7a1d2ccafd" width="50px"/>
-  <img src="https://github.com/CaioNeme/CaioNeme/assets/128882451/81deae75-695a-4426-a785-473e3163139c" width="50px"/>
-  
+## **GitHub Estatísticas**
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioNeme&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=CaioNeme&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
+
+<br>
 
 
-<!---
-CaioNeme/CaioNeme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
