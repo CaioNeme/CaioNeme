@@ -11,7 +11,8 @@ object **Caio Neme** {
  val name = "Caio Cesar Neme da Silva"
  val acknowledgements = "Web"
  
- val primarySkillset = "ALGUMAS HABILIDADES"
+ val primarySkillset = "Code"
+ val secondarySkillset = "PlayGames"
  val languages = listOf("Python", "JavaScript", "React") 
 
 }
@@ -40,11 +41,13 @@ object **Caio Neme** {
 
 [twitter]: https://twitter.com/CaioNeme
 [linkedin]: https://www.linkedin.com/in/caio-neme/
+[email]:caiocesarneme@gmail.com
 <br>
 
 #### Rede Sociais!
 
 🐦 [twitter][twitter] **|** 
-👔 [linkedin][linkedin]
+👔 [linkedin][linkedin]**|** 
+📧 [emailemail][email]
 
 <!-- https://github.com/iuricode/readme-template/blob/main/profile/profile7.md?plain=1 -->
