@@ -12,6 +12,12 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Since I was little, I always liked to see how things worked, I would take my toys apart and my parents would get mad, I think my desire to program comes from this curiosity that I have
 
+
+##Languanges and Tools:
+   <i class="devicon-arduino-plain-wordmark colored"></i>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+          
+          
 <!---
 CaioNeme/CaioNeme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
