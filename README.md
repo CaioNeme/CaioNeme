@@ -41,13 +41,13 @@ object **Caio Neme** {
 
 [twitter]: https://twitter.com/CaioNeme
 [linkedin]: https://www.linkedin.com/in/caio-neme/
-[email]:caiocesarneme@gmail.com
+
 <br>
 
 #### Rede Sociais!
 
-🐦 [twitter][twitter] **|** 
-👔 [linkedin][linkedin]**|** 
-📧 [emailemail][email]
+🐦 [Twitter][twitter] **|** 
+👔 [Linkedin][linkedin]**|** 
+📧 Email: caiocesarneme@gmail.com
 
 <!-- https://github.com/iuricode/readme-template/blob/main/profile/profile7.md?plain=1 -->
