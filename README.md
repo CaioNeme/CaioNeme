@@ -15,7 +15,6 @@
 
 ##Languanges and Tools:
    <i class="devicon-arduino-plain-wordmark colored"></i>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
           
           
 <!---
