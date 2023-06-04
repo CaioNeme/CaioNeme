@@ -38,6 +38,13 @@ object **Caio Neme** {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CaioNeme&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
+[twitter]: https://twitter.com/CaioNeme
+[linkedin]: https://www.linkedin.com/in/caio-neme/
 <br>
 
+#### Rede Sociais!
 
+🐦 [twitter][twitter] **|** 
+👔 [linkedin][linkedin]
+
+<!-- https://github.com/iuricode/readme-template/blob/main/profile/profile7.md?plain=1 -->
