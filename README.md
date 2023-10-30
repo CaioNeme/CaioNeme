@@ -13,7 +13,7 @@ object **Caio Neme** {
  
  val primarySkillset = "Code"
  val secondarySkillset = "PlayGames"
- val languages = listOf("Python", "JavaScript", "React") 
+ val languages = listOf("JavaScript", "React", "NodeJS", "Postgress", "MongoDB", "Python") 
 
 }
 ```
