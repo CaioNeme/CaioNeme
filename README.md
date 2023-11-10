@@ -12,7 +12,7 @@ let Caio_Neme = {
  acknowledgements: "Full-Stack Web Developer",
  
  primarySkillset: "Code",
- secondarySkillset: "PlayGames",
+ secondarySkillset: "Games",
  languages: ["JavaScript", SQL, "Python"],
  technologies: ["React", "NodeJS", "PostgreSQL", "MongoDB"],
 }
