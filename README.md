@@ -65,7 +65,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile#welcome-badges-4-re
 
 <br>
 
-#### Rede Sociais!
+#### Ficou interessado ou quer dar algum feedback? Entre em contato!
 
 👔 [Linkedin][linkedin]**|** 
 📧 Email: caiocesarneme@gmail.com
