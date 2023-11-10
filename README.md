@@ -52,14 +52,12 @@ let Caio_Neme = {
 </a>
 -->
 
-[twitter]: https://twitter.com/CaioNeme
 [linkedin]: https://www.linkedin.com/in/caio-neme/
 
 <br>
 
 #### Rede Sociais!
 
-🐦 [Twitter][twitter] **|** 
 👔 [Linkedin][linkedin]**|** 
 📧 Email: caiocesarneme@gmail.com
 
