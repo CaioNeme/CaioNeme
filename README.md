@@ -13,8 +13,8 @@ let Caio_Neme = {
  
  primarySkillset: "Code",
  secondarySkillset: "Games",
- languages: ["JavaScript", SQL, "Python"],
- technologies: ["React", "NodeJS", "PostgreSQL", "MongoDB"],
+ languages: [ "JavaScript", SQL, "Python" ],
+ technologies: [ "React", "NodeJS", "PostgreSQL", "MongoDB", PrismaORM ],
 }
 ```
 
